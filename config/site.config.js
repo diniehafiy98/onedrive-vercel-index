@@ -39,7 +39,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
+  protectedRoutes: ['/🌞 Private folder/u-need-a-password'981215, '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:mdhsuccessful@gmail.com',
@@ -50,11 +50,11 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/diniehafiy98',
+      link: 'https://github.com',
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/diniehafiy98',
+      link: 'https://t.me',
     },
   ],
 
