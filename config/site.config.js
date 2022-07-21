@@ -50,11 +50,11 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com',
+      link: 'https://github.com/diniehafiy98',
     },
     {
       name: 'Telegram',
-      link: 'https://t.me',
+      link: 'https://t.me/diniehafiy98',
     },
   ],
 
